@@ -3,7 +3,7 @@ const USE_BACKEND = true;
 
 // TADY si každý student nastaví svoje údaje (až bude backend):
 const BACKEND_URL = "https://web-support.onrender.com";
-const STUDENT_ID = "Kostak_Ladislav_4A";
+const STUDENT_ID = "Baborak_Lukas_4ITA";
 
 const form = document.getElementById("question-form");
 const textarea = document.getElementById("question");
